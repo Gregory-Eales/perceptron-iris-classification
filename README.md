@@ -18,6 +18,13 @@ Matplotlib: https://matplotlib.org/ <br/>
 </p>
 
 ## Data:
+
+| Type        | Petal Length    | Sepal Length  |
+| ------------- |:-------------:| -----:|
+| Versicolor      | right-aligned | $1600 |
+| Seratosa     | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 <p align="center">
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Iris%20Data.png" width="350"/>
 </p>
