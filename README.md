@@ -34,7 +34,7 @@ Matplotlib: https://matplotlib.org/ <br/>
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Misclassification%20Errors.png" width="350"/>
 </p>
 
-## Resutlts:
+## Results:
 
 <p align="center">
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Classified%20Iris%20Data.png" width="350"/>
