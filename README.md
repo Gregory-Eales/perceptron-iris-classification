@@ -27,10 +27,14 @@ This is a diagram of the perceptron machine learning model for classifacation ta
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Example%20Data%20Table.png" width="400"/>
 </p>
 
+The features used in this training example are the petal and sepal length of the seratosa and verisolor iris species. This is an chart example with the given data. Each flower has 50 data samples and thus 50 data points for the perceptron to train and classify from.
+
 
 <p align="center">
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Iris%20Data.png" width="500"/>
 </p>
+
+This is a graph showing plots of petal length vs sepal length. The setosa species is show as red dots and the versicolor species is shown as blue x's. There is a clear gap between the two species on the graph and should be easy for a perceptron model to identify.
 
 ## Training:
 
