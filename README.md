@@ -14,7 +14,7 @@ Matplotlib: https://matplotlib.org/ <br/>
 ## Model:
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Perceptron%20Diagram.png" width="350"/>
+  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Perceptron%20Diagram.png" width="500"/>
 </p>
 
 ## Data:
