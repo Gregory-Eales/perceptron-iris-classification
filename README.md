@@ -19,7 +19,7 @@ Matplotlib: https://matplotlib.org/ <br/>
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Perceptron%20Diagram.png" width="500"/>
 </p>
 
-This is a diagram of the perceptron model machine learning model for classifacation tasks. This shows the proccess of inputing the features <sub>x <sub>i </sub>
+This is a diagram of the perceptron model machine learning model for classifacation tasks. This shows the proccess of inputing the features x <sub>i
 
 ## Data:
 
