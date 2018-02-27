@@ -34,3 +34,8 @@ Matplotlib: https://matplotlib.org/ <br/>
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Classified%20Iris%20Data.png" width="350"/>
 </p>
 
+# Sources:
+
+Raschka, Sebastian, and Randal S. Olson. Python Machine Learning: Unlock Deeper Insights into Machine Learning with This Vital Guide to Cutting-Edge Predictive Analytics. Birmingham: Packt Publishing, 2016. Print.
+
+
