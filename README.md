@@ -20,7 +20,7 @@ Matplotlib: https://matplotlib.org/ <br/>
 ## Data:
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Example%20Data%20Table.png" width="450"/>
+  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Example%20Data%20Table.png" width="400"/>
 </p>
 
 
