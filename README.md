@@ -1,7 +1,7 @@
 # Perceptron-Iris-classification
 
 ## Overview:
-This is a simple perceptron model which is trained to classify samples from the iris dataset. <br/>
+This is a simple perceptron model which is trained to classify samples from the iris dataset. This consists of a two input features of both the petal and sepal length for each of the Seratos and Vericolor iris species. <br/>
 
 ## Requirements:
 
