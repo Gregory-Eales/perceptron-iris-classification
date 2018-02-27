@@ -44,7 +44,7 @@ plt.show()
 y = y.iloc[0:100, 4].values
 y = np.where(y == 'Iris-setosa', -1, 1)
 
-# Model training and evaluation
+# Model training and evaluation.
 Classifier = Perceptron(Learn_Rate=0.01, Iterations=50)
 Classifier.fit(x, y)
 plt.plot(range(1, len(Classifier.errors) + 1), Classifier.errors, marker='o')
@@ -54,7 +54,7 @@ plt.show()
 
 
 
-# Defining function that plots the decision regions
+# Defining function that plots the decision regions.
 def plot_decision_regions(X, y, classifier, resolution=0.02):
     # setup marker generator and color map
     markers = ('s', 'x', 'o', '^', 'v')
@@ -76,6 +76,6 @@ def plot_decision_regions(X, y, classifier, resolution=0.02):
                     alpha=0.8, c=cmap(idx),
                     marker=markers[idx], label=cl)
 
-# Showing the final results of the perceptron model
+# Showing the final results of the perceptron model.
 plot_decision_regions(x, y, classifier=Classifier)
 plt.show()
