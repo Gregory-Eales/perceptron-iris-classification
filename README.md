@@ -1,9 +1,11 @@
 # Perceptron-Iris-Classification
 
 ## Overview:
-This is a simple perceptron model which is trained to classify samples from the iris dataset. This consists of a two input features of both the petal and sepal length for each of the Seratos and Vericolor iris species. <br/>
+This is a simple perceptron model which is trained to classify samples from the iris dataset. This consists of two input features of both the petal and sepal length for each of the Seratos and Vericolor iris species. <br/>
 
 ## Requirements:
+
+Python3: https://www.python.org/ <br/>
 
 NumPy: http://www.numpy.org/ <br/>
 
@@ -16,6 +18,8 @@ Matplotlib: https://matplotlib.org/ <br/>
 <p align="center">
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Perceptron%20Diagram.png" width="500"/>
 </p>
+
+This is a diagram of the perceptron model machine learning model for classifacation tasks. This shows the proccess of inputing the features <sub>x <sub>i </sub>
 
 ## Data:
 
