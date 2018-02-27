@@ -44,4 +44,6 @@ Matplotlib: https://matplotlib.org/ <br/>
 
 * Raschka, Sebastian, and Randal S. Olson. Python Machine Learning: Unlock Deeper Insights into Machine Learning with This Vital Guide to Cutting-Edge Predictive Analytics. Birmingham: Packt Publishing, 2016. Print.
 
+* R.A. Fisher. “Iris Data Set.” UCI Machine Learning Repository: Iris Data Set, 1936, archive.ics.uci.edu/ml/datasets/iris.
+
 
