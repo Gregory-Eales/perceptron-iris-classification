@@ -42,11 +42,15 @@ This is a graph showing plots of petal length vs sepal length. The setosa specie
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Misclassification%20Errors.png" width="500"/>
 </p>
 
+This graph shows the number of misclassifications the perceptron model makes for each epoch. The number of misclassifications drops off sharply after the 3rd epoch with an error rate of 0% there after.
+
 ## Results:
 
 <p align="center">
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Classified%20Iris%20Data.png" width="500"/>
 </p>
+
+This graph shows the decision regions for each species in there corresponding color labeling. The linear distiction makes a clear seperation beween the species and has succesfully learned how to predict the species type given the sepal and petal length.
 
 # Sources:
 
