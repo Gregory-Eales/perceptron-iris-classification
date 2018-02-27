@@ -18,7 +18,7 @@ Matplotlib: https://matplotlib.org/ <br/>
 </p>
 
 ## Data:
-
+<align="center">
 | Type        | Petal Length    | Sepal Length  |
 | ------------- |:-------------:| -----:|
 | Versicolor      | 6.7 | 3.0 |
