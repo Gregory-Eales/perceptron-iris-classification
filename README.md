@@ -7,8 +7,7 @@ This is a simple perceptron model which is trained to classify samples from the 
 
 NumPy: http://wiki.scipy.org/Tentative_NumPy_Tutorial <br/>
 
-Pandas: http://pandas.pydata.org/pandas-docs/stable/ <br/>
-tutorials.html
+Pandas: http://pandas.pydata.org/pandas-docs/stable/tutorials.html <br/>
 
 Matplotlib: http://matplotlib.org/ussers/beginner.html <br/>
 
