@@ -19,11 +19,10 @@ Matplotlib: https://matplotlib.org/ <br/>
 
 ## Data:
 
-| Type        | Petal Length    | Sepal Length  |
-| :-------------: |:-------------:| :-----:|
-| Versicolor      | 6.7 | 3.0 |
-| Seratosa     | 6.3 |   2.5 |
-|  ... |  ...  |  ... |
+<p align="center">
+  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Example%20Data%20Table.png" width="350"/>
+</p>
+
 
 <p align="center">
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Iris%20Data.png" width="350"/>
