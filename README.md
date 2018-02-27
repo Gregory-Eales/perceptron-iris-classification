@@ -20,24 +20,24 @@ Matplotlib: https://matplotlib.org/ <br/>
 ## Data:
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Example%20Data%20Table.png" width="350"/>
+  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Example%20Data%20Table.png" width="500"/>
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Iris%20Data.png" width="350"/>
+  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Iris%20Data.png" width="500"/>
 </p>
 
 ## Training:
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Misclassification%20Errors.png" width="350"/>
+  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Misclassification%20Errors.png" width="500"/>
 </p>
 
 ## Results:
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Classified%20Iris%20Data.png" width="350"/>
+  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Classified%20Iris%20Data.png" width="500"/>
 </p>
 
 # Sources:
