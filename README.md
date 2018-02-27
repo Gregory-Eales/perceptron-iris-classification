@@ -5,11 +5,11 @@ This is a simple perceptron model which is trained to classify samples from the 
 
 ## Requirements:
 
-NumPy: http://wiki.scipy.org/Tentative_NumPy_Tutorial <br/>
+NumPy: http://www.numpy.org/ <br/>
 
-Pandas: http://pandas.pydata.org/pandas-docs/stable/tutorials.html <br/>
+Pandas: https://pandas.pydata.org/ <br/>
 
-Matplotlib: http://matplotlib.org/ussers/beginner.html <br/>
+Matplotlib: https://matplotlib.org/ <br/>
 
 ## Model:
 
