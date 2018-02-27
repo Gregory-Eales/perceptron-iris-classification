@@ -19,7 +19,7 @@ Matplotlib: https://matplotlib.org/ <br/>
   <img src="https://github.com/Gregory-Eales/Perceptron-Iris-classification/blob/master/Images/Perceptron%20Diagram.png" width="500"/>
 </p>
 
-This is a diagram of the perceptron machine learning model for classifacation tasks. This shows the proccess of inputing the features x <sub>m</sub> where m is the number of features per data sample, and mulitplying them by their corresponding weights. The amalgamation of the two components is then summed and inputed into a stepwise function producing a classification. The classification is then fed back into model to check for errors and updating the weights accordingly.
+This is a diagram of the perceptron machine learning model for classifacation tasks. This shows the proccess of inputing the features x <sub>m</sub> where m is the number of features per data sample, and mulitplying them by their corresponding weights. The amalgamation of the two components is then summed and inputed into a stepwise Activation function producing a classification. The classification is then outputed and the errors fed back into model to check for the purpose updating the weights accordingly.
 
 ## Data:
 
