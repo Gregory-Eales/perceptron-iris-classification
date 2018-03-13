@@ -16,7 +16,7 @@ Matplotlib: https://matplotlib.org/ <br/>
 ## Model:
 
 <p align="center">
-  <img src="https://github.com/Gregory-Eales/Adaptive-Linear-Neuron-Iris-Classification/blob/master/Photos/Gradient%20Descent%20Diagram.png" width="500"/>
+  <img src="https://github.com/Gregory-Eales/Perceptron-Iris-Classification/blob/master/Images/Perceptron%20Diagram.png" width="500"/>
 </p>
 
 This is a diagram of the perceptron machine learning model for classification tasks. It shows the process of inputing the features x <sub>m</sub>, where m is the number of features per data sample, and multiplying them by their corresponding weights. The amalgamation of the two components is then summed and inputed into a stepwise activation function, thus producing a classification. The classification is then outputed and the errors fed back into model to check for the purpose, all the while updating the weights accordingly.
